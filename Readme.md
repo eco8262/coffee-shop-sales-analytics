@@ -6,16 +6,15 @@ The goal of this project is to turn transactional data into practical business i
 
 ## Dashboard
 
-**Power BI Report:**
-[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmU5ZDFhMWYtNzY3Yy00NTVkLTlhNDItNGQ4YjUyZGRhNTRjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[View the Interactive Power BI Dashboard](YOUR_POWER_BI_LINK_HERE)
+
 ### Dashboard Overview
 
-![Coffee Shop Sales Dashboard - Overview](Images/overview.png)
+![Coffee Shop Sales Dashboard - Overview](Images/overview.jpg)
 
 ### Customer Behaviour
 
-![Coffee Shop Sales Dashboard - Customer Behaviour](Images/customer-behaviour.png)
----
+![Coffee Shop Sales Dashboard - Customer Behaviour](Images/customer-behaviour.jpg)
 
 ## Business Questions
 
